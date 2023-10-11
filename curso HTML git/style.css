@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: linear-gradient(rgb(248, 160, 248), rgb(170, 119, 183));
+
+}
+
+header, nav, section, footer{
+    background-color: rgb(240, 184, 233);
+    border-style: 1;
+    margin: 10px;
+    width: 90%;
+    padding: 20px;
+    display: block; 
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+}
+
+img{
+    border-radius: 60px;
+}
